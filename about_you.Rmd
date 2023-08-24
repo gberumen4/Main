@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Genevieve Berumen"
 output: 
   html_document:
     number_sections: true
@@ -11,30 +11,25 @@ date: "`r Sys.Date()`"
 
 # A Little Survey
 
-Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct punctuation. 
 
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
-
-     
-
+During high school, I went to William J Pete Knight High School. I found that math class was much easier for me compared to English. I excelled the most in math, all I needed was a sample problem and some practice, then I could do it on my own. On the other hand, I did well in English class too, but I struggled with reading. I had to look at the questions I needed to answer, then go back into the text to find the answer. However, I found it difficult to focus on a book. I did the best in math, all I needed was an example problem and some practice then I was able to do it on my own. When it came to English class I did well as well but I'm not so strong in the reading area, I can look at the questions I need to answer then go back into the text and find my answer but I struggled with focusing on a book.
 
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
-   
+
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
-   
+
  
 
 
@@ -44,18 +39,14 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
-   
  
-
-
-
-
+   
 ## Past adventures?  
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
+
 ### my answer     
-  
+
    
   
 
@@ -65,10 +56,11 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 ## Why are you taking Statistics?  
 Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
 What grade do you need to attain in stats to not upset your future plans, What is your plan?  
+
  
 
 ### my answer     
-  
+ 
    
  
 
